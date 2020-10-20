@@ -5,7 +5,9 @@
       "title": "Portal do \n Cliente",
       "icon": "portal-do-cliente.png",
       "target": true,
-      "url": "http://kg3uu0-prd-portal.totvscloud.com.br:15141/web/app/Imb/PortalCliente/#/"
+      "url": "http://kg3uu0-prd-portal.totvscloud.com.br:15141/web/app/Imb/PortalCliente/#/",
+      "alt": "já sou cliente HM",
+      "imgTitle": "acesso ao Portal do Cliente"
     },
 
     {
@@ -13,7 +15,9 @@
       "title": "Venda a \n sua área",
       "icon": "maps.png",
       "target": false,
-      "url": "/vender-minha-area"
+      "url": "/vender-minha-area",
+      "alt": "cadastro de área para venda",
+      "imgTitle": "Venda a sua Área"
     },
 
     {
@@ -21,7 +25,9 @@
       "title": "Seja um \n fornecedor",
       "icon": "fornecedor.png",
       "target": false,
-      "url": "/fornecedor"
+      "url": "/fornecedor",
+      "alt": "cadastro de fornecedores e parceiros",
+      "imgTitle": "Seja um Fornecedor"
     },
 
     {
@@ -29,7 +35,9 @@
       "title": "Trabalhe \n conosco",
       "icon": "trabalhe.png",
       "target": true,
-      "url": "https://hmengenharia.gupy.io/"
+      "url": "https://hmengenharia.gupy.io/",
+      "alt": "cadastro de currículo e banco de talentos",
+      "imgTitle": "Trabalhe Conosco"
     }
   ],
   "keywords": [
